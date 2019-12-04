@@ -7,4 +7,8 @@ public void loginPage() {
 
 public void loginpageTitle(){
 	System.out.println("LoginpageTitle");
-}}
+}
+public void loginpageLogo(){
+	System.out.println("LoginpageLogo");
+	}
+}
