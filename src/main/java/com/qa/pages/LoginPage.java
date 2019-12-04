@@ -6,5 +6,5 @@ public void loginPage() {
 }
 
 public void loginpageTitle(){
-	system.out println("LoginpageTitle");
+	System.out.println("LoginpageTitle");
 }}
